@@ -10,6 +10,6 @@ The goal of this game is to get you to put in a number higher than the one liste
 
 - Open Spyder and navigate to `run.py` or `run_documentation.py`
 - Click on the play button in the upper toolbar
-- In the lower right window, you should be able to enter text. Enter your text there
+- In the lower right window, you should be able to enter text. Enter your number there. Start by entering `4`.
 - Press enter
 - Play until you win
